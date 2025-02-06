@@ -22,7 +22,7 @@ A collection of Unity Editor extensions and runtime scripts designed to enhance 
 
 ## Installation
 
-- Download the latest `.unitypackage` from the [Releases](https://github.com/YourUsername/VRChat-Udon/releases) section on GitHub.  
+- Download the latest `.unitypackage` from the [Releases](https://github.com/NoHeartcub/VRChat-Udon/releases) section on GitHub.  
 - Import the package into your Unity project to start using the tools.
 
 ## Usage
