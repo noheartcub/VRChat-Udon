@@ -7,7 +7,7 @@ public class BlendShapeExplorer : EditorWindow
     private SkinnedMeshRenderer skinnedMeshRenderer; // Drag your SkinnedMeshRenderer here
     private Vector2 scrollPos; // For scrolling the list of blend shapes
 
-    [MenuItem("NoHeartCub Udon/Blend Shape Explorer")]
+    [MenuItem("NoHeartCub/World/Tools/Blend Shape Explorer")]
     public static void ShowWindow()
     {
         GetWindow<BlendShapeExplorer>("Blend Shape Explorer");
